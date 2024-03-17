@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning = [PYTHON]
 - 📫 How to reach me [FACEBOOK: Aryaveer Das,INSTAGRAM:spiderdude5280]
 - ⚡ Location = [Bangladesh,Barishal]
-- ✨Currently learning python✨
+- ✨A newbie in the world of programming language
 
 <!---
 ARYAVEER23112009/ARYAVEER23112009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

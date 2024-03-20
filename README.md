@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ARYAVEER23112009
 - 👀 I’m interested in SPORTS = [FOOTBALL]
 - 🌱 I’m currently learning = [PYTHON]
-- 📫 How to reach me [FACEBOOK: Aryaveer Das,INSTAGRAM:spiderdude5280]
+- 📫 How to reach me [FACEBOOK: Aryaveer Das,INSTAGRAM:spiderdude5180
+- 80]
 - ⚡ Location = [Bangladesh,Barishal]
 - ✨A newbie in the world of programming language
 
